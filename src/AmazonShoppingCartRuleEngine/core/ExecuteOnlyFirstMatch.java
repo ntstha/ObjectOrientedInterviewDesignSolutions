@@ -1,6 +1,6 @@
-package core;
+package AmazonShoppingCartRuleEngine.core;
 
-import api.Rule;
+import AmazonShoppingCartRuleEngine.api.Rule;
 
 import java.util.TreeSet;
 

@@ -1,4 +1,4 @@
-package api;
+package AmazonShoppingCartRuleEngine.api;
 
 public interface RuleEngine<U> {
     public void register(Rule rule);

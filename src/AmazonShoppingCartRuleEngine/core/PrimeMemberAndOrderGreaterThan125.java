@@ -1,7 +1,7 @@
-package core;
+package AmazonShoppingCartRuleEngine.core;
 
-import api.Rule;
-import dto.ShoppingCart;
+import AmazonShoppingCartRuleEngine.api.Rule;
+import AmazonShoppingCartRuleEngine.dto.ShoppingCart;
 
 public class PrimeMemberAndOrderGreaterThan125 extends Rule<ShoppingCart> {
 

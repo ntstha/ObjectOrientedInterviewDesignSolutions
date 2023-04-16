@@ -1,4 +1,4 @@
-package api;
+package AmazonShoppingCartRuleEngine.api;
 
 public abstract class Rule<U> implements Comparable<Rule>{
 

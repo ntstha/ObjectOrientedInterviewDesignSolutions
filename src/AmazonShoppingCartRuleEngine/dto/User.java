@@ -1,4 +1,4 @@
-package dto;
+package AmazonShoppingCartRuleEngine.dto;
 
 public class User {
 

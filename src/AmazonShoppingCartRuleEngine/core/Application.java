@@ -1,9 +1,9 @@
-package core;
+package AmazonShoppingCartRuleEngine.core;
 
-import api.RuleEngine;
-import dto.Item;
-import dto.ShoppingCart;
-import dto.User;
+import AmazonShoppingCartRuleEngine.api.RuleEngine;
+import AmazonShoppingCartRuleEngine.dto.Item;
+import AmazonShoppingCartRuleEngine.dto.ShoppingCart;
+import AmazonShoppingCartRuleEngine.dto.User;
 
 import java.util.ArrayList;
 import java.util.List;
